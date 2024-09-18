@@ -33,8 +33,5 @@ Instructions to run the model, preprocess the data, and visualize the prediction
 ## Future Work
 Plans to incorporate real-time detection capabilities and expand the dataset to include signs from other regions to increase the robustness and applicability of the model globally.
 
-## License
-This project is released under the MIT License.
-
 
  
